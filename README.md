@@ -21,7 +21,7 @@ $PROJECT
 
 
 ## Update
-[DESIGN] : SUN:12/25/2022 | Design a simple project and choose the stack 
+[DESIGN] : SUN:12/25/2022 | Design a simple project and choose the stack <br>
 [INIT]   : MON:12/26/2022 | Create a project and do some configuration
 
 ## Desrciption
