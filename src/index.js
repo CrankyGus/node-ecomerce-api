@@ -16,7 +16,7 @@ mongoose
   .catch((err) => console.log(err));
 
 app.use(express.json());
-app.use("/api", userRoute);
+app.use("/api/users", userRoute);
 app.use('/api/auth', authRoute)
 
 app.listen(port, () => {
